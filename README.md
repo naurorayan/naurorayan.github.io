@@ -1,4 +1,4 @@
-# Predicting Auroral Substorm Onsets Using Magnetometer Data
+# Predicting Substorm Onsets Using Magnetometer Data
 
 ## Problem Statement
 ### What Am I Trying to Solve?
